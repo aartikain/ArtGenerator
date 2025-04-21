@@ -13,6 +13,7 @@ st.set_page_config(
     layout="centered"
 )
 
+
 # App title and description
 st.title("Mandala Art Generator")
 st.write("Create beautiful mandala art using AI! Customize your mandala with various inspiration elements.")
